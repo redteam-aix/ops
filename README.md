@@ -1,6 +1,6 @@
 # OPERATION: SHADOW
 
-## Intel Package #1
+## USE YOUR OSINT TECHNIQUE
 
 Download this image. It contains the last known location of Shelby & Maya.
 
@@ -8,9 +8,10 @@ Download this image. It contains the last known location of Shelby & Maya.
 
 ---
 
-## Mission Log
+## Mission Log 
 
 > "We left something at this place Maybe A mark.A Review. A memory. A flag."
+> (HINT: Google Maps)
 
 ---
 
