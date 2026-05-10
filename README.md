@@ -4,7 +4,7 @@
 
 Download this image. It contains the last known location of Shelby & Maya.
 
-**[DOWNLOAD IMAGE]()**
+**[DOWNLOAD IMAGE](https://github.com/redteam-aix/ops/blob/main/zoi.jpeg)**
 
 ---
 
