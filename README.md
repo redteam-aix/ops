@@ -10,7 +10,7 @@ Download this image. It contains the last known location of Shelby & Maya.
 
 ## Mission Log 
 
-> "We left something at this place Maybe A mark.A Review. A memory. A flag."
+> "We left something at this place when "mini world war III stops". Maybe A mark. A Review. A memory. A flag."
 > (HINT: Google Maps)
 
 ---
